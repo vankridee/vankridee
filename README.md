@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**vankridee/vankridee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my little corner of GitHub! 🌱
 
-Here are some ideas to get you started:
+An ML Engineer passionate about building intelligent systems and turning ideas into real-world AI solutions🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 **I’m currently working on:** AI/ML projects, Generative AI applications, RAG systems and intelligent software engineering tools.
+* 🌱 **I’m currently learning:** Advanced Generative AI, Agentic AI, LLMOps, MLOps and Azure AI.
+* 👯 **I’m looking to collaborate on:** Open-source AI/ML, GenAI, RAG and intelligent automation projects.
+* 🤔 **I’m looking for help with:** Building scalable, production-ready AI systems and contributing to meaningful open-source projects.
+* 💬 **Ask me about:** Machine Learning, Python, GenAI, RAG, NLP, MLflow, Azure and AI engineering.
+* 📫 **How to reach me:** [GitHub](https://github.com/vankridee)
+* 😄 **Pronouns:** She/Her
+* ⚡ **Fun fact:** I love turning ideas into working AI systems and learning by building! 🚀
