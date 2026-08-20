@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Welcome to my little corner of GitHub! 🌱
+## Welcome to my little corner of GitHub! 🌱
 
 An ML Engineer passionate about building intelligent systems and turning ideas into real-world AI solutions
 
